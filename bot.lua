@@ -7,13 +7,13 @@ JSON = require('dkjson')
 HTTPS = require('ssl.https')
 
 local sudo = 114740646
-local bot_api_key = "332124195:AAF0yZ7QNiY-5XOmCVNw-p2p1K3cIOwN-ec"
+local bot_api_key = "TOKEN"
 local BASE_URL = "https://api.telegram.org/bot"..bot_api_key
 local BASE_FOLDER = "/home/xamarin"
 
 function is_admin(msg)
 	local var = false
-	local admins = {114740646, 255660438}
+	local admins = {sudo}
 	for k,v in pairs(admins) do
 		if msg.from.id == v then
 			var = true
