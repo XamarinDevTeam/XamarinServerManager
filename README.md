@@ -1,7 +1,7 @@
 # [XamarinServerManager](https://github.com/XamarinDevTeam/XamarinServerManager)
 
-[![Bot API](http://img.shields.io/badge/Bot%20API-v3.6-00aced.svg)](https://core.telegram.org/bots/api)
-[![https://t.me/XamarinDevTeam](https://img.shields.io/badge/💬%20Telegram-XamarinDevTeam-00aced.svg)](https://t.me/XamarinDevTeam)
+[![Bot API](https://img.shields.io/badge/Bot%20API-V3.6-ffe000.svg)](https://core.telegram.org/bots/api)
+[![https://t.me/XamarinDevTeam](https://img.shields.io/badge/💬%20Telegram-XamarinDevTeam-ffe000.svg)](https://t.me/XamarinDevTeam)
 
 ## Xamarin Server Manager V1.0 
 Server Manager Bot Based On Love
